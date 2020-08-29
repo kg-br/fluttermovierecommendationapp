@@ -1,4 +1,4 @@
-# flutterproject
+# Movie recommendation app in Flutter
 
 A new Flutter project.
 
